@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZeitWind</string>
+    <string name="second">" Bitte geben Sie eine Sekunde ein"</string>
+    <string name="insecond">" Sekunden eingeben"</string>
+</resources>

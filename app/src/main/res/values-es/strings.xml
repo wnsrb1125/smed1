@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pedo de tiempo</string>
+    <string name="second">Por favor ingrese un segundo</string>
+    <string name="insecond">" ingrese segundos"</string>
+</resources>

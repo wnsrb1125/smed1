@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" vent à retardement"</string>
+    <string name="second">" S'il vous plaît entrer une seconde"</string>
+    <string name="insecond">" entrez les secondes"</string>
+</resources>

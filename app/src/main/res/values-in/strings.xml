@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Kentut waktu"</string>
+    <string name="second">" Silakan masukkan yang kedua"</string>
+    <string name="insecond">masukkan detik</string>
+</resources>

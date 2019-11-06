@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">시한폭탄 방귀!</string>
+    <string name="second">초를 입력해주세요</string>
+    <string name="insecond">초를 입력해주세요</string>
+</resources>

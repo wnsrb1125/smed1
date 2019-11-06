@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" пердеть замедленного действия"</string>
+    <string name="second">Пожалуйста, введите вторую</string>
+    <string name="insecond">введите секунды</string>
+</resources>

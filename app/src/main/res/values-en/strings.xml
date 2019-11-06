@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">time fart!</string>
+    <string name="second">Please enter a second</string>
+    <string name="insecond">enter seconds</string>
+</resources>

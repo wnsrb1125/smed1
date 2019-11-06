@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rắm đặt giờ</string>
+    <string name="second">" Vui lòng nhập một giây"</string>
+    <string name="insecond">nhập giây</string>
+</resources>
